@@ -1,3 +1,0 @@
-Opinionated decisions
-
-TODO:
