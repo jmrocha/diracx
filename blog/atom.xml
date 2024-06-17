@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://jmrocha.github.io/diracx-poc/blog</id>
+    <id>https://jmrocha.github.io/diracx/blog</id>
     <title>DiracX Blog</title>
     <updated>2024-04-08T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://jmrocha.github.io/diracx-poc/blog"/>
+    <link rel="alternate" href="https://jmrocha.github.io/diracx/blog"/>
     <subtitle>DiracX Blog</subtitle>
-    <icon>https://jmrocha.github.io/diracx-poc/img/favicon.ico</icon>
+    <icon>https://jmrocha.github.io/diracx/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[The 10th DIRAC Users' Workshop: 19th-21st June 2024, Lyon (FR)]]></title>
-        <id>https://jmrocha.github.io/diracx-poc/blog/10thworkshop</id>
-        <link href="https://jmrocha.github.io/diracx-poc/blog/10thworkshop"/>
+        <id>https://jmrocha.github.io/diracx/blog/10thworkshop</id>
+        <link href="https://jmrocha.github.io/diracx/blog/10thworkshop"/>
         <updated>2024-04-08T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Dear All,]]></summary>
         <content type="html"><![CDATA[<p>Dear All,</p>
@@ -32,8 +32,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[LHCb and DIRAC Strategy Towards the LHCb Upgrade]]></title>
-        <id>https://jmrocha.github.io/diracx-poc/blog/welcome</id>
-        <link href="https://jmrocha.github.io/diracx-poc/blog/welcome"/>
+        <id>https://jmrocha.github.io/diracx/blog/welcome</id>
+        <link href="https://jmrocha.github.io/diracx/blog/welcome"/>
         <updated>2019-08-17T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[The DIRAC project is developing interware to build and operate distributed computing systems. It provides a development framework and a rich set of services for both Workload and Data Management tasks of large scientific communities. DIRAC is adopted by a growing number of collaborations, including LHCb, Belle2, CLIC, and CTA. The LHCb experiment will be upgraded during the second long LHC shutdown (2019-2020). At restart of data taking in Run 3, the instantaneous luminosity will increase by a factor of five. The LHCb computing model also need be upgraded. Oversimplifying, this translates into the need for significantly more computing power and resources, and more storage with respect to what LHCb uses right now. The DIRAC interware will keep being the tool to handle all of LHCb distributed computing resources. Within this contribution, we highlight the ongoing and planned efforts to ensure that DIRAC will be able to provide an optimal usage of its distributed computing resources. This contribution focuses on DIRAC plans for increasing the scalability of the overall system, taking in consideration that the main requirement is keeping a running system working. This requirement translates into the need of studies and developments within the current DIRAC architecture. We believe that scalability is about traffic growth, dataset growth, and maintainability: within this contribution we address all of them, showing the technical solutions we are adopting.]]></summary>
         <content type="html"><![CDATA[<p>The DIRAC project is developing interware to build and operate distributed computing systems. It provides a development framework and a rich set of services for both Workload and Data Management tasks of large scientific communities. DIRAC is adopted by a growing number of collaborations, including LHCb, Belle2, CLIC, and CTA. The LHCb experiment will be upgraded during the second long LHC shutdown (2019-2020). At restart of data taking in Run 3, the instantaneous luminosity will increase by a factor of five. The LHCb computing model also need be upgraded. Oversimplifying, this translates into the need for significantly more computing power and resources, and more storage with respect to what LHCb uses right now. The DIRAC interware will keep being the tool to handle all of LHCb distributed computing resources. Within this contribution, we highlight the ongoing and planned efforts to ensure that DIRAC will be able to provide an optimal usage of its distributed computing resources. This contribution focuses on DIRAC plans for increasing the scalability of the overall system, taking in consideration that the main requirement is keeping a running system working. This requirement translates into the need of studies and developments within the current DIRAC architecture. We believe that scalability is about traffic growth, dataset growth, and maintainability: within this contribution we address all of them, showing the technical solutions we are adopting.</p>
@@ -65,8 +65,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[DIRAC—The Distributed MC Production and Analysis for LHCb]]></title>
-        <id>https://jmrocha.github.io/diracx-poc/blog/dirac-2004</id>
-        <link href="https://jmrocha.github.io/diracx-poc/blog/dirac-2004"/>
+        <id>https://jmrocha.github.io/diracx/blog/dirac-2004</id>
+        <link href="https://jmrocha.github.io/diracx/blog/dirac-2004"/>
         <updated>2004-09-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[DIRAC is the LHCb distributed computing grid infrastructure for Monte Carlo (MC) production and analysis. Its architecture is based on a set of distributed collaborating services. The service decomposition broadly follows the CERN/ARDA-RTAG proposal, which should allow for the interchange of the EGEE/gLite and DIRAC components. In this paper we give an overview of the DIRAC architecture, as well as the main design choices in its implementation. The light nature and modular design of the DIRAC components allows its functionality to be easily extended to include new computing and storage elements or to handle new types of tasks. The DIRAC system already uses different types of computing resources - from single PC's to a variety of batch systems and to the Grid environment. In particular, the DIRAC interface to the LCG2 grid will be presented.]]></summary>
         <content type="html"><![CDATA[<p>DIRAC is the LHCb distributed computing grid infrastructure for Monte Carlo (MC) production and analysis. Its architecture is based on a set of distributed collaborating services. The service decomposition broadly follows the CERN/ARDA-RTAG proposal, which should allow for the interchange of the EGEE/gLite and DIRAC components. In this paper we give an overview of the DIRAC architecture, as well as the main design choices in its implementation. The light nature and modular design of the DIRAC components allows its functionality to be easily extended to include new computing and storage elements or to handle new types of tasks. The DIRAC system already uses different types of computing resources - from single PC's to a variety of batch systems and to the Grid environment. In particular, the DIRAC interface to the LCG2 grid will be presented.</p>
