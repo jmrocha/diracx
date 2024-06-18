@@ -27,8 +27,8 @@
         <author>
             <name>Vanessa Hamar</name>
         </author>
-        <category label="dirac" term="dirac"/>
-        <category label="lhcb" term="lhcb"/>
+        <category label="DIRAC" term="DIRAC"/>
+        <category label="LHCb" term="LHCb"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[LHCb and DIRAC Strategy Towards the LHCb Upgrade]]></title>
@@ -59,9 +59,9 @@
         <author>
             <name>Vladimir Romanovski</name>
         </author>
-        <category label="dirac" term="dirac"/>
-        <category label="lhcb" term="lhcb"/>
-        <category label="paper" term="paper"/>
+        <category label="DIRAC" term="DIRAC"/>
+        <category label="LHCb" term="LHCb"/>
+        <category label="Paper" term="Paper"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[DIRAC—The Distributed MC Production and Analysis for LHCb]]></title>
@@ -137,8 +137,8 @@
         <author>
             <name>Sanchez-Garcia, M</name>
         </author>
-        <category label="dirac" term="dirac"/>
-        <category label="lhcb" term="lhcb"/>
-        <category label="paper" term="paper"/>
+        <category label="DIRAC" term="DIRAC"/>
+        <category label="LHCb" term="LHCb"/>
+        <category label="Paper" term="Paper"/>
     </entry>
 </feed>

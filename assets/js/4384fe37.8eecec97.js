@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[417],{371:a=>{a.exports=JSON.parse('{"tags":[{"label":"dirac","permalink":"/diracx/blog/tags/dirac","count":3},{"label":"lhcb","permalink":"/diracx/blog/tags/lhcb","count":3},{"label":"paper","permalink":"/diracx/blog/tags/paper","count":2}]}')}}]);
