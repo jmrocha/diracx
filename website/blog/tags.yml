@@ -1,16 +1,12 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+dirac:
+  label: DIRAC
+  permalink: /dirac
+  description: DIRAC tag description
+lhcb:
+  label: LHCb
+  permalink: /lhcb
+  description: LHCb tag description
+paper:
+  label: Paper
+  permalink: /paper
+  description: Paper tag description
